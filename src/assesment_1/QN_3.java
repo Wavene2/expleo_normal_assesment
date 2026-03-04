@@ -13,6 +13,9 @@ public class QN_3 {
 			sum += n % 10;
 			
 			n = n/10;
+			
+			
+			
 		}
 		
 		if (sum % num == 0) 
